@@ -1,3 +1,4 @@
+
 .clear {
 	clear:both;
 }
@@ -35,10 +36,22 @@
 	color:black;
 	font-size: 25px;
 	border-bottom: 1px solid #dfdfdf;
+	font-family: 'alex_brushregular', cursive;
+	font-weight: bold;
 }
 header {
 	border-top: 9px solid #222222;
 }
 hr {
 	clear:both;
+}
+h1 {
+  font-family: 'alex_brushregular', cursive;
+  font-weight: bold;
+  letter-spacing: 4px;
+}
+h2 {
+  font-family: 'alex_brushregular', cursive;
+  font-weight: 600;
+  letter-spacing: -1.5px;
 }
